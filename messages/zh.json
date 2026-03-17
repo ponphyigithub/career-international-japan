@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "title": "科锐国际日本 | 综合人力资源服务",
+    "description": "科锐国际是中国领先的综合人力资源服务企业。提供人才推荐、RPO、灵活用工、猎头、技术外包等全方位HR解决方案。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "公司概况",
+    "services": "服务",
+    "cases": "案例",
+    "news": "新闻",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "连接日本与中国的\n综合人才解决方案",
+    "subtitle": "科锐国际作为亚洲领先的人力资源服务企业，全力支持贵司的全球人才战略。",
+    "cta": "查看服务",
+    "ctaSecondary": "联系我们"
+  },
+  "services": {
+    "title": "服务",
+    "subtitle": "根据客户需求提供最优人才解决方案",
+    "recruitment": {
+      "title": "人才推荐",
+      "description": "依托丰富数据库和专业顾问实现最优人才匹配"
+    },
+    "rpo": {
+      "title": "RPO（招聘流程外包）",
+      "description": "全面优化招聘流程，提升招聘效率和质量"
+    },
+    "staffing": {
+      "title": "灵活用工",
+      "description": "在需要的时间、需要的岗位派遣即战力人才"
+    },
+    "headhunting": {
+      "title": "猎头服务",
+      "description": "通过独特网络帮助获取高管及专业人才"
+    },
+    "techOutsourcing": {
+      "title": "技术外包",
+      "description": "IT及工程领域专业团队提供项目支持"
+    }
+  },
+  "about": {
+    "title": "公司概况",
+    "subtitle": "关于科锐国际"
+  },
+  "cases": {
+    "title": "案例",
+    "subtitle": "客户案例与业绩介绍"
+  },
+  "news": {
+    "title": "新闻",
+    "subtitle": "最新动态"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "欢迎随时咨询",
+    "form": {
+      "company": "公司名称",
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话",
+      "subject": "主题",
+      "message": "咨询内容",
+      "submit": "提交",
+      "required": "必填"
+    }
+  },
+  "footer": {
+    "company": "科锐国际日本株式会社",
+    "copyright": "© {year} Career International Japan. All rights reserved.",
+    "privacy": "隐私政策"
+  },
+  "common": {
+    "readMore": "查看详情",
+    "backToList": "返回列表",
+    "loading": "加载中...",
+    "comingSoon": "敬请期待"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "title": "科鋭国際日本 | 総合人材サービス",
+    "description": "科鋭国際は、中国最大級の総合人材サービス企業です。人材紹介、RPO、人材派遣、ヘッドハンティング、技術アウトソーシングなど、幅広いHRソリューションを提供しています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "services": "サービス",
+    "cases": "実績",
+    "news": "ニュース",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "日本と中国をつなぐ\n総合人材ソリューション",
+    "subtitle": "科鋭国際は、アジア最大級の人材サービス企業として、貴社のグローバル人材戦略をサポートします。",
+    "cta": "サービスを見る",
+    "ctaSecondary": "お問い合わせ"
+  },
+  "services": {
+    "title": "サービス",
+    "subtitle": "お客様のニーズに合わせた最適な人材ソリューションを提供します",
+    "recruitment": {
+      "title": "人材紹介",
+      "description": "豊富なデータベースと専門コンサルタントによる最適な人材マッチング"
+    },
+    "rpo": {
+      "title": "RPO（採用代行）",
+      "description": "採用プロセス全体を最適化し、採用効率と品質を向上"
+    },
+    "staffing": {
+      "title": "人材派遣",
+      "description": "即戦力の人材を必要な期間、必要なポジションに派遣"
+    },
+    "headhunting": {
+      "title": "ヘッドハンティング",
+      "description": "エグゼクティブ層・専門人材の独自ネットワークによる獲得支援"
+    },
+    "techOutsourcing": {
+      "title": "技術アウトソーシング",
+      "description": "IT・エンジニアリング分野の専門チームによるプロジェクト支援"
+    }
+  },
+  "about": {
+    "title": "会社概要",
+    "subtitle": "科鋭国際について"
+  },
+  "cases": {
+    "title": "実績",
+    "subtitle": "導入事例・実績のご紹介"
+  },
+  "news": {
+    "title": "ニュース",
+    "subtitle": "最新のお知らせ"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "まずはお気軽にご相談ください",
+    "form": {
+      "company": "会社名",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "phone": "電話番号",
+      "subject": "件名",
+      "message": "お問い合わせ内容",
+      "submit": "送信する",
+      "required": "必須"
+    }
+  },
+  "footer": {
+    "company": "科鋭国際日本株式会社",
+    "copyright": "© {year} Career International Japan. All rights reserved.",
+    "privacy": "プライバシーポリシー"
+  },
+  "common": {
+    "readMore": "詳しく見る",
+    "backToList": "一覧に戻る",
+    "loading": "読み込み中...",
+    "comingSoon": "準備中"
+  }
+}

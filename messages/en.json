@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "title": "Career International Japan | Total HR Solutions",
+    "description": "Career International is one of China's largest comprehensive HR service providers. We offer recruitment, RPO, staffing, headhunting, and tech outsourcing solutions."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "cases": "Cases",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Total Talent Solutions\nConnecting Japan and China",
+    "subtitle": "As one of Asia's leading HR service companies, Career International supports your global talent strategy.",
+    "cta": "Our Services",
+    "ctaSecondary": "Contact Us"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Providing optimal talent solutions tailored to your needs",
+    "recruitment": {
+      "title": "Recruitment",
+      "description": "Optimal talent matching through our extensive database and expert consultants"
+    },
+    "rpo": {
+      "title": "RPO (Recruitment Process Outsourcing)",
+      "description": "Optimizing your entire recruitment process to improve efficiency and quality"
+    },
+    "staffing": {
+      "title": "Staffing",
+      "description": "Dispatching ready-to-work talent for the positions and periods you need"
+    },
+    "headhunting": {
+      "title": "Headhunting",
+      "description": "Executive and specialist talent acquisition through our unique network"
+    },
+    "techOutsourcing": {
+      "title": "Tech Outsourcing",
+      "description": "Project support by specialized teams in IT and engineering fields"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "About Career International"
+  },
+  "cases": {
+    "title": "Case Studies",
+    "subtitle": "Our track record and success stories"
+  },
+  "news": {
+    "title": "News",
+    "subtitle": "Latest updates"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Feel free to reach out to us",
+    "form": {
+      "company": "Company Name",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit",
+      "required": "Required"
+    }
+  },
+  "footer": {
+    "company": "Career International Japan Co., Ltd.",
+    "copyright": "© {year} Career International Japan. All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "readMore": "Read More",
+    "backToList": "Back to List",
+    "loading": "Loading...",
+    "comingSoon": "Coming Soon"
+  }
+}
